@@ -115,5 +115,3 @@ Commercial use will be permitted with attribution.
 - **2027:** Community contributions, translated resources, and advanced templates
 
 ```
-
----
